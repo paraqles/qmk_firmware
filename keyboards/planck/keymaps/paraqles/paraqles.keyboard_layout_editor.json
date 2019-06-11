@@ -1,0 +1,61 @@
+[
+  {c:"#ff0000"},"\n1\n\n\nEsc\n\n\n",
+  {c:"#cccccc",t:"#000000\n\n#408ea3"},"Q\n\nX",
+  "W\n\nV",
+  "E\n\nL",
+  "R\n\nC",
+  "T\n\nW",
+  "Y\n\nK",
+  "U\n\nH",
+  "I\n\nG",
+  "O\n\nF",
+  "P\n\nQ",
+  {c:"#d1671d",t:"#000000"},"Bsp\n\n\n\n\n\nDel"
+],
+
+
+[
+  "Tab",
+  {c:"#cccccc",t:"#000000\n\n#408ea3"},"A\n\nU",
+  "S\n\nI",
+  "D\n\nA",
+  "F\n\nE",
+  "G\n\nO",
+  "H\n\nS",
+  "J\n\nN",
+  "K\n\nR",
+  "L\n\nT",
+  ";\n\nD",
+  "'\n\nY"
+],
+
+
+[
+  {c:"#d1671d"},"Shift",
+  {c:"#cccccc"},"Z\n\n&Uuml;",
+  "X\n\n&Ouml;",
+  "C\n\n&Auml;",
+  "V\n\nP",
+  "B\n\nZ",
+  "N\n\nB",
+  "M\n\nM",
+  ",\n\n,",
+  ".\n\n.",
+  "/\n\nJ",
+  {c:"#ff0808"},"Return"
+],
+
+
+[
+  {c:"#d1671d"},"Ctrl",
+  {c:"#7a7272"},"Medi",
+  {c:"#d1671d"},"Alt",
+  "Super",
+  {c:"#cccccc"},"&dArr;",
+  {a:7,w:2}, "",
+  {a:4},"&uArr;",
+  "&larr;",
+  "&darr;",
+  "&uarr;",
+  "&rarr;"
+]
